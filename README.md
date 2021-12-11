@@ -1,4 +1,4 @@
-# data_Structure_cdac_Assignment_solution
+#cdac_desd_sunbeam_data_structure_old_assignment_question_solution
 Assignment Questions:
 Develop an application for Electronics Shop which contains multiple electronic devices. Use doubly linked list with head pointer only to store
 multiple devices. Provide following functionalities:
